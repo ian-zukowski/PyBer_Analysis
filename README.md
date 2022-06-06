@@ -5,9 +5,9 @@
 The ride share company PyBer requires a summary report for ride-sharing data based on city demographics. This report gathers that information based on city type (Rural, Suburban, Urban) and visualizes the data in multiple-line graphs and pie charts. The data will then be used to make decisions on areas for further expansion. 
 
 ### Resources Used
-Data Source: city_data.csv
-Date Source: ride_data.csv
-Software: Jupyter Notebook 6.4.8
+* Data Source: city_data.csv
+* Date Source: ride_data.csv
+* Software: Jupyter Notebook 6.4.8
 
 
 ## Results:
