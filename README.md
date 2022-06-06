@@ -37,5 +37,22 @@ The percentage of rides fulfilled follows closely with the total amount of fares
 
 Finally the analysis looked at the average fare collected per ride each week. The chart above shows this data. There is an overall trend that suggests Rural environments will have the most expensive rides, followed by Suburban, then Urban settings will have the least expensive rides on average. This data also shows that the Urban environment has the most consistent fare amount, as the range of average fares only spans $3.40 (from $22.59-$25.99). The average fare for Suburban environments are relatively consistent, ranging $8.80 (from $26.60-$35.39). However by comparison, the average fare in a Rural setting is extremely volatile, having massive peaks and valleys on a seemingly weekly basis. The range of fares in the Rural setting is $15.99 (from $22.55-$38.54). 
 
-<!-- Summary:
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt) -->
+## Summary
+<!-- There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt) -->
+### Urban Suggestions
+In the Urban setting there is a need to increase the efficacy of the pre-existing employee base that is currently offering rides. Ideally this will bring the percentage of Urban fares up to match the percentage of Urban drivers already working for the company. Next steps to achieve this goal may include:
+
+* Analyzing location data to identify urban areas in which to station more drivers
+* Increasing the upfront cost for a customer to reserve a driver to supplement the short distances for each ride
+
+### Suburban Suggestions
+In the Suburban setting there is a need to build up the employee base to meet an increased demand for rides. Ideally this would bring the percentage of drivers up to match the percentage of rides requested in the Suburban environment. Next steps to achieve this goal may include:
+
+* Increased outreach to single-income suburban households for part-time opporunities with PyBer
+* Increased outreach to college students and young adults in suburban areas for part-time opporunities with PyBer
+
+### Rural Suggestions
+The Rural setting has a similar need for additional employees as the Suburban setting. In contrast, the Rural setting is the most volatile market of the three city types, and efforts to expand in this area should be advanced with caution due to the seeming lack of current interest in PyBer services. Suggestions to increase consistency amongst PyBer's Rural business may include:
+
+* Increase advertising of PyBer services for daily services frequented by Rural populations (i.e. 'PyBer can help pick up groceries', 'PyBer can get you home safely from the bar', etc.)
+* Increase advertising of PyBer services for special occassions frequented by Rural populations (i.e. 'Get a PyBer to head out to the ball game in the city', 'PyBer can help get you to the airport to catch your flight', etc.)
